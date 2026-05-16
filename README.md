@@ -1,4 +1,4 @@
-# AccelerateVM-Runtime
+# AVM-Ajex
 
 Ajex 相当于 AVM 的调度器。它将大型合约拆分为多个执行过程，执行完一个过程即切换至其他合约，避免单合约长期阻塞系统。
 
